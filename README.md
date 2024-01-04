@@ -2,6 +2,8 @@
 
 Basic data analysis over preferences for electives selection for SBME 2024 students.
 
+Note for results: First 2 letters in permutation indicate first group. the remaining 3 indicate the second group.
+
 ## Data key:
 
 | Title      | Details                                          |
